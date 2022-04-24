@@ -10,6 +10,8 @@ The overall experience helps teams test code and fix issues at a much faster pac
 
 To know more about how HyperTest does intelligent Test Orchestration, do check out [HyperTest Getting Started Guide](https://www.lambdatest.com/support/docs/getting-started-with-hypertest/)
 
+To know more about how HyperExecute does intelligent Test Orchestration, do check out <a href="https://www.lambdatest.com/support/docs/getting-started-with-hyperexecute/" target="_blank">HyperExecute Getting Started Guide</a>
+
 # How to run Selenium automation tests on HyperTest (using PyTest framework)
 
 * [Pre-requisites](#pre-requisites)
